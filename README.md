@@ -1,5 +1,5 @@
 # ROV-handle-DB
-A database for object detection and pose estimation of objects under water. Footage is from a Blueye X3 circling targets at 8 meters depth in the sea. 
+A database for object detection and pose estimation of objects under water. Footage is from a Blueye X3 circling targets at 8 meters depth in the sea. Recorded at two different locations at two different days with varying levels of turbidity.
 
 ![](/assets/bluerov_observe.png)
 
